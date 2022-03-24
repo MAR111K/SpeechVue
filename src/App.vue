@@ -52,7 +52,7 @@ h1
 html
   background-color: #2b2b2b
 .main-wrapper
-  display: flex
+  display: flex 
   flex-direction: row
   justify-content: center
   align-items: center
